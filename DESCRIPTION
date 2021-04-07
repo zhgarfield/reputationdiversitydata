@@ -1,16 +1,43 @@
 Package: reputationdata
-Title: What the Package Does (One Line, Title Case)
+Title: Ethnographic Data On Reputation Domains
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    c(person(given = "Zachary",
+           family = "Garfield",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+           email = "zachary.garfield@iast.fr",
+           comment = c(ORCID = "0000-0002-1547-1492")),
+     person(given = "Shane",
+           family = "Macfarlan",
+           role = c("aut"),
+           email = "shane.macfarlan@anthro.utah.edu",
+           comment = c(ORCID = "0000-0002-6332-9829")),
+     person(given = "Ryan",
+           family = "Schacht",
+           role = c("aut"),
+           email = "schachtr18@ecu.edu",
+           comment = c(ORCID = "0000-0002-4606-7345")),
+     person(given = "Emily",
+           family = "Post",
+           role = c("aut"),
+           email = "94emilypost@gmail.com"),
+    person(given = "Dominique",
+           family = "Ingram",
+           role = c("aut"),
+           email = "dominique.ingram@utah.edu"),
+    person(given = "Andrea",
+           family = "Uehling",
+           role = c("aut"),
+           email = "andrea.j.h.uehling@gmail.com")
+           )
+Description: The reputationdata package provides researcher-coded variables produced from ethnographic texts sampled from the eHRAF.
+    Data are introduced and analyzed in the publication Macfarlan1 et al. in Phil. Trans. R. Soc. B (DOI). Data include
+    variables on 20 distinct reputation domains coded from 319 ethnographic "texts" covering 153 cultures. See manuscript for more details.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
+Depends: 
+    R (>= 2.10), tidyverse, tidytext, textstem

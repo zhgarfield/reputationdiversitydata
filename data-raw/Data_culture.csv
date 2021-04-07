@@ -1,0 +1,154 @@
+culture_ID,n,Region,Subregion,Subsistence Type,EA_ID,SCCS,longitude,latitude,Name
+aa01,3,Asia,East Asia,intensive agriculturalists,Ed1,116,126.63,37.48,Korea
+ab06,1,Asia,East Asia,hunter-gatherers,Ec7,118,142.37,43.77,Ainu
+ab43,1,Asia,East Asia,intensive agriculturalists,Ed5,117,133.35,35.43,Okayama
+ad05,6,Asia,East Asia,intensive agriculturalists,NA,NA,121,24,Taiwan Hokkien
+ae09,1,Asia,East Asia,intensive agriculturalists,Eb2,NA,98.887156,38.335409,Monguor
+aj01,1,Asia,Central Asia,intensive agriculturalists,Ee4,NA,91.17,29.65,Tibetans
+ak06,2,Asia,Central Asia,agro-pastoralists,Ee6,NA,87,27.67,Sherpa
+am04,3,Asia,Southeast Asia,intensive agriculturalists,Ej15,75,103.85,13.37,Cambodians
+am11,3,Asia,Southeast Asia,intensive agriculturalists,Ej4,73,106.63,20.8,Vietnamese
+an05,4,Asia,Southeast Asia,intensive agriculturalists,Ej8,82,102.3,2.7,Malays
+an06,1,Asia,Southeast Asia,horticulturalists,Ej14,NA,101.48,4.13,Semai
+ao07,5,Asia,Southeast Asia,intensive agriculturalists,Ej9,76,100.57,13.73,Central Thai
+ap04,1,Asia,Southeast Asia,intensive agriculturalists,Ei3,71,96.1,21.98,Burmans
+au04,3,Asia,Central Asia,other subsistence combinations,Ea2,NA,70.5,33.48700562,Pashtun
+aw11,2,Asia,South Asia,not assigned,Eg6,NA,76.66722,10.219295,Kerala
+aw16,2,Asia,South Asia,intensive agriculturalists,Eg2,NA,77.94827586,11.10167224,Tamil
+aw19,2,Asia,South Asia,intensive agriculturalists,Ef11,63,81.73,25.45,Uttar Pradesh
+aw69,4,Asia,South Asia,intensive agriculturalists,Ef2,NA,90,24,Bengali
+ef06,1,Europe,Southeastern Europe,intensive agriculturalists,Ch1,NA,21.25,43.5,Serbs
+eg01,1,Europe,Southeastern Europe,intensive agriculturalists,Ce1,48,19.78,41.33,Albanians
+eh01,16,Europe,Southeastern Europe,intensive agriculturalists,Ce7,NA,22.9456,40.6422,Greeks
+ep04,2,Europe,Scandinavia,pastoralists,Cg4,52,22.5,68.45,Saami
+eq01,2,Europe,Scandinavia,other subsistence combinations,Cg2,NA,-19.03,63.47,Icelanders
+eq02,3,Europe,Scandinavia,other subsistence combinations,Cg2,NA,-19.02,63.48,Early Icelanders
+ex08,1,Europe,Southern Europe,other subsistence combinations,Ce4,50,-1,41.67,Basques
+fa08,1,Africa,Western Africa,other subsistence combinations,Ag1,22,-7.3,12.9,Bambara
+fa18,1,Africa,Western Africa,horticulturalists,Af1,18,1.9,7.1,Fon
+fc07,1,Africa,Western Africa,horticulturalists,Af5,20,-12.5,7.53,Mende
+fd06,3,Africa,Western Africa,horticulturalists,Af15,NA,-9.835141,6.908016,Kpelle
+fe11,1,Africa,Western Africa,intensive agriculturalists,Ag4,23,-0.4,10.5,Tallensi
+fe12,2,Africa,Western Africa,horticulturalists,Af3,19,-1.6,6.72,Akan
+ff26,4,Africa,Western Africa,horticulturalists,Af10,17,7.02,4.85,Igbo
+ff52,1,Africa,Western Africa,horticulturalists,Af8,NA,5.4,9.18,Nupe
+ff57,3,Africa,Western Africa,horticulturalists,Ah3,16,7.55,6.47,Tiv
+ff62,2,Africa,Western Africa,horticulturalists,Af6,NA,1.9,7.1,Yoruba
+fj22,5,Africa,Eastern Africa,agro-pastoralists,Aj3,NA,32.38,8.14,Nuer
+fj23,1,Africa,Eastern Africa,agro-pastoralists,Ai6,31,32.1,9.8,Shilluk
+fk07,1,Africa,Eastern Africa,intensive agriculturalists,Ad7,12,32.4,0,Ganda
+fk13,2,Africa,Eastern Africa,horticulturalists,Ad9,NA,34.533579,1.143251,Bagisu
+fl08,5,Africa,Eastern Africa,horticulturalists,Ad12,NA,35.200548,-0.90239,Gusii
+fl10,2,Africa,Eastern Africa,intensive agriculturalists,Ad4,11,37.45,-0.5,Gikuyu
+fl11,3,Africa,Eastern Africa,intensive agriculturalists,Aj6,NA,34.49,-0.93,Luo
+fl12,2,Africa,Eastern Africa,pastoralists,Aj2,34,36.62,-3.33,Maasai
+fl17,1,Africa,Eastern Africa,pastoralists,Aj5,NA,35.71,4.31,Turkana
+fn04,2,Africa,Eastern Africa,intensive agriculturalists,Ad3,NA,37.34,-3.34,Chagga
+fn17,1,Africa,Eastern Africa,intensive agriculturalists,Ad6,8,34.7,-9.3,Nyakyusa and Ngonde
+fn31,1,Africa,Eastern Africa,horticulturalists,Ad11,NA,-7.443465,35.277453,Bena
+fo04,2,Africa,Central Africa,hunter-gatherers,Aa5,13,28,2.1,Mbuti
+fo07,2,Africa,Central Africa,horticulturalists,Ai3,28,28.4,4.5,Azande
+fo32,1,Africa,Central Africa,horticulturalists,Ae4,14,18.1,-1.9,Mongo
+fo58,1,Africa,Central Africa,horticulturalists,Ae8,NA,29.98495,-3.482095,Barundi
+fp13,2,Africa,Southern Africa,horticulturalists,Ab5,5,16.3,-12.5,Ovimbundu
+fq05,2,Africa,Southern Africa,horticulturalists,Ac3,7,29.08,-9.8,Bemba
+fq12,3,Africa,Southern Africa,horticulturalists,Ac30,NA,27.618478,-16.86366,Tonga
+fs05,5,Africa,Southern Africa,other subsistence combinations,Ab18,NA,29.76,-17.21,Shona
+fx10,1,Africa,Southern Africa,hunter-gatherers,Aa1,2,18.3,-19.5,San
+fx20,1,Africa,Southern Africa,agro-pastoralists,Ab12,NA,24.25,-25.5692643,Zulu
+ma11,3,Middle East,Middle East,pastoralists,Ci11,57,44.4,35.47,Kurds
+mb01,2,Middle East,Middle East,commercial economy,Ci5,47,32.9,40,Turks
+md04,1,Middle East,Middle East,pastoralists,Cj2,46,38.3,34.55,Rwala Bedouin
+mo04,1,Africa,Eastern Africa,pastoralists,Ca2,36,45.57,9.52,Somali
+mp05,2,Africa,Eastern Africa,intensive agriculturalists,Ca7,37,38.8,14.1,Amhara
+mp17,1,Africa,Eastern Africa,intensive agriculturalists,Ca1,35,39.75,5.28,Konso
+ms12,2,Africa,Western Africa,other subsistence combinations,Cb9,26,7.45,10.6,Hausa
+ms20,1,Africa,Western Africa,intensive agriculturalists,Cb3,24,-3,16.72,Songhai
+ms22,1,Africa,Central Africa,agro-pastoralists,Cc2,40,16.2,20.5,Teda
+ms25,2,Africa,Northern Africa,agro-pastoralists,Cc9,41,5.52,22.78,Tuareg
+ms30,4,Africa,Western Africa,horticulturalists,Cb2,21,-14.77,13.53,Wolof
+mt09,5,Africa,Northern Africa,pastoralists,Cd18,NA,24,26,Libyan Bedouin
+mw11,1,Africa,Northern Africa,intensive agriculturalists,Cd5,NA,-8,30.5,Shluh
+mx03,1,Africa,Northern Africa,agro-pastoralists,Cd3,42,-5,34,Berbers of Morocco
+na12,2,North America,Northwest Coast and California,hunter-gatherers,Nb22,NA,-133,57.34,Tlingit
+nd07,5,North America,Arctic and Subarctic,hunter-gatherers,Na30,NA,-95.887173,49.285932,Chipewyans
+nd08,3,North America,Arctic and Subarctic,hunter-gatherers,Na3,124,-115.15,67.82,Copper Inuit
+nd12,1,North America,Arctic and Subarctic,hunter-gatherers,Na4,129,-130,58.42,Kaska
+ne09,2,North America,Northwest Coast and California,hunter-gatherers,Nb1,NA,-132.2,54,Haida
+ne11,2,North America,Northwest Coast and California,hunter-gatherers,Nb24,NA,-126.09,49.62,Nuu-chah-nulth
+nf04,2,North America,Plains and Plateau,hunter-gatherers,Ne11,NA,-105.43819,45.986202,Assiniboine
+nf06,5,North America,Plains and Plateau,hunter-gatherers,Ne12,NA,-115,55,Blackfoot
+ng06,3,North America,Arctic and Subarctic,hunter-gatherers,Na39,127,-96,50.5,Ojibwa
+nh06,1,North America,Arctic and Subarctic,hunter-gatherers,Na32,125,-73.9,50.3,Innu
+nj05,1,North America,Eastern Woodlands,hunter-gatherers,Na41,126,-63.13,46.28,Mi'kmaq
+nm09,4,North America,Eastern Woodlands,horticulturalists,Ng10,NA,-75,43,Iroquois
+nn08,1,North America,Eastern Woodlands,other subsistence combinations,Ng5,NA,-100.25,42.07,Cherokee
+nn16,1,North America,Eastern Woodlands,horticulturalists,Ng2,NA,-85.002163,31.066175,Seminole
+no06,1,North America,Plains and Plateau,hunter-gatherers,Ne3,147,-101.7,35.23,Comanche
+nq10,3,North America,Plains and Plateau,hunter-gatherers,Ne4,NA,-110.715993,45.050666,Crow
+nq13,1,North America,Plains and Plateau,hunter-gatherers,Ne1,140,-109.8,48.5,Gros Ventre
+nq18,2,North America,Plains and Plateau,primarily hunter-gatherers,Nf6,142,-100.25,42.07,Pawnee
+nr10,1,North America,Plains and Plateau,hunter-gatherers,Nc8,138,-121.8,42.2,Klamath
+nr13,1,North America,Southwest and Basin,hunter-gatherers,Nd22,137,-118.95,43.58,Northern Paiute
+nr17,1,North America,Northwest Coast and California,hunter-gatherers,Nb25,NA,-123.88968,47.452567,Quinault
+nt08,1,North America,Southwest and Basin,hunter-gatherers,Nh1,148,-109.5,32.3,Eastern Apache
+nt09,4,North America,Southwest and Basin,intensive agriculturalists,Nh18,NA,-110.5,35.5,Hopi
+nt13,6,North America,Southwest and Basin,agro-pastoralists,Nh3,NA,-109.07,35.66,Navajo
+nt14,1,North America,Southwest and Basin,other subsistence combinations,Nd3,150,-112.2,35.3,Havasupai
+nt21,2,North America,Southwest and Basin,primarily hunter-gatherers,Nh17,NA,-109.925875,34.56251,Western Apache
+nt23,1,North America,Southwest and Basin,intensive agriculturalists,Nh4,149,-108.5,35.5,Zuni
+nt25,1,North America,Southwest and Basin,hunter-gatherers,Nh15,NA,-110.12,33.86,Mescalero Apache
+nu33,2,Middle America and the Caribbean,Northern Mexico,agro-pastoralists,Ni1,NA,-107,28,Tarahumara
+nu44,4,Middle America and the Caribbean,Central Mexico,horticulturalists,Nj10,NA,-97,16,Zapotec
+nv09,1,Middle America and the Caribbean,Maya Area,horticulturalists,Sa2,NA,-92.5,16.5,Tzeltal
+nv10,2,Middle America and the Caribbean,Maya Area,horticulturalists,Sa6,NA,-89.295282,19.56547,Maya (Yucatán Peninsula)
+nw08,1,Middle America and the Caribbean,Maya Area,horticulturalists,Sa8,NA,-91.940672,15.457351,Mam Maya
+oa19,2,Asia,Southeast Asia,intensive agriculturalists,Ia3,112,121.57,15.77,Ifugao
+oc06,6,Asia,Southeast Asia,horticulturalists,Ib1,85,111.83,2.33,Iban
+oc13,1,Asia,Southeast Asia,horticulturalists,Ib5,NA,116.924679,6.551961,Rungus Dusun
+oe05,1,Asia,Southeast Asia,intensive agriculturalists,Ib2,83,112.3,-7.6,Javanese
+of05,1,Asia,Southeast Asia,horticulturalists,Ic2,89,125.57,-8.57,Alorese
+of07,1,Asia,Southeast Asia,intensive agriculturalists,Ib3,84,115.17,-8.75,Balinese
+og11,1,Asia,Southeast Asia,horticulturalists,Ic5,87,120.2,-3,Eastern Toraja
+oi08,1,Oceania,Australia,hunter-gatherers,Id1,91,133.9,-23.8,Aranda
+oi20,1,Oceania,Australia,hunter-gatherers,Id3,90,131.77,-11.32,Tiwi
+oj13,1,Oceania,Melanesia,other subsistence combinations,Ie12,95,140.48,-2.57,Kwoma
+oj27,3,Oceania,Melanesia,other subsistence combinations,Ie4,NA,144.09,-3.2,Wogeo
+oj29,2,Oceania,Melanesia,intensive agriculturalists,Ie1,94,134.05,-0.88,Kapauku
+ol06,3,Oceania,Melanesia,horticulturalists,Ig2,98,151.4,-8.38,Trobriands
+om06,2,Oceania,Melanesia,hunter-gatherers,Ig9,96,147.43,-2.07,Manus
+on19,1,Oceania,Melanesia,other subsistence combinations,Ig1,99,157.27,-8.33,Siwai
+oo12,1,Oceania,Melanesia,horticulturalists,Ih2,NA,167.527645,-16.341087,Malekula
+or15,3,Oceania,Micronesia,other subsistence combinations,If1,111,134.48,7.33,Belau
+or19,1,Oceania,Micronesia,other subsistence combinations,If2,109,151.85,7.47,Chuuk
+or21,2,Oceania,Micronesia,other subsistence combinations,If4,NA,143.92,7.38,Woleai Region
+or22,1,Oceania,Micronesia,other subsistence combinations,If6,110,138.08,9.48,Yapese
+ot11,1,Oceania,Polynesia,horticulturalists,Ii2,100,167.55,-13.85,Tikopia
+ou08,3,Oceania,Polynesia,horticulturalists,Ii1,106,-171.78,-13.8,Samoans
+ou09,7,Oceania,Polynesia,horticulturalists,Ii12,NA,-175.2,-21.18,Tongans
+ov05,1,Oceania,Polynesia,other subsistence combinations,Ij6,NA,-157.85,21.3,Hawaiians
+ox06,1,Oceania,Polynesia,other subsistence combinations,Ij3,105,-140,-8.9,Marquesas
+oz04,1,Oceania,Polynesia,primarily hunter-gatherers,Ij2,104,173.27,-35.13,Maori
+ri03,1,Asia,Caucasus,agro-pastoralists,Ci12,55,41.88,42.52,Abkhazians
+rq02,1,Asia,Central Asia,pastoralists,Eb1,65,76.93,43.23,Kazakh
+rx02,1,Asia,North Asia,primarily hunter-gatherers,Ec1,119,142.72,54.42,Nivkh
+ry02,1,Asia,North Asia,pastoralists,Ec3,121,179.12,66.35,Chukchee
+sa12,4,Middle America and the Caribbean,Central America,horticulturalists,Sa7,NA,-89,16,Garifuna
+sb05,6,Middle America and the Caribbean,Central America,horticulturalists,Sa1,158,-79.6,9.2,Kuna
+sc07,1,South America,Northwestern South America,horticulturalists,Sb2,NA,-73,11,Kogi
+sd06,1,South America,Northwestern South America,other subsistence combinations,Sf3,168,-79,1.1,Chachi
+sd09,1,South America,Amazon and Orinoco,horticulturalists,Se3,169,-78.93,-2.55,Jivaro
+se26,1,South America,Amazon and Orinoco,horticulturalists,Se9,NA,-74.82,-7.17,Shipibo
+sf05,2,South America,Central Andes,horticulturalists,Sf2,172,-70.15,-15.48,Aymara
+sg04,1,South America,Central Andes,intensive agriculturalists,Sg2,184,-71,-39.2,Mapuche
+sh04,1,South America,Southern South America,hunter-gatherers,Sg3,NA,-67.5,-54.5,Ona
+sh06,1,South America,Southern South America,hunter-gatherers,Sg1,186,-68.32,-54.8,Yahgan
+sm04,1,South America,Eastern South America,other subsistence combinations,Sj10,181,-51.18,-23.38,Guaraní
+so08,2,South America,Eastern South America,primarily hunter-gatherers,Sj4,176,-45.27,-5.5,Canela
+so11,3,South America,Eastern South America,intensive agriculturalists,Cf4,NA,-38.426631,-12.909453,Bahia Brazilians
+sp22,1,South America,Eastern South America,other subsistence combinations,Sd2,NA,-50.54,-10.54,Tapirapé
+sq18,1,South America,Amazon and Orinoco,horticulturalists,Sd9,163,-62.93,-0.98,Yanoama
+sq19,2,South America,Amazon and Orinoco,other subsistence combinations,Se12,167,-69.2,0.62,Tukano
+sr15,2,South America,Amazon and Orinoco,other subsistence combinations,Sc6,165,-56.15,3.78,Saramaka
+ss18,1,South America,Amazon and Orinoco,hunter-gatherers,Sc1,162,-63.18,9.75,Warao
+sv03,2,Middle America and the Caribbean,Caribbean,commercial economy,Sb9,160,-72.3,18.57,Haitians
