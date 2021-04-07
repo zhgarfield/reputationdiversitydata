@@ -1,4 +1,4 @@
-## code to prepare `reputationdata` dataset goes here
+## code to prepare `reputationdata` dataset
 
 # Load libraries ----------------------------------------------------------
 library(tidyverse)
