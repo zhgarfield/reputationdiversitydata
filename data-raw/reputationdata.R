@@ -2,6 +2,8 @@
 
 # Load libraries ----------------------------------------------------------
 library(tidyverse)
+library(readxl)
+library(stringi)
 library(tidytext)
 library(textstem)
 
@@ -10,12 +12,53 @@ library(textstem)
 ### Raw data of paragraphs and researcher coded measures
 data_raw <- read.csv("data-raw/data_raw_package.csv")
 
+### Add female coauthorship data
+data_fem_author <- read.csv("data-raw/female_authorship_data.csv")
+
+data_raw <- left_join(data_raw, data_fem_author)
+
 ### Culture level data includes IDs from eHRAF, SCCS, and EA as well as subsistence and region meta-data.
 ### Also includes a count of documents per culture.
 data_culture <- read.csv("data-raw/Data_culture.csv")
 
 
+### Read and add language family data from Ethnographic Atlas variable (001)
+ea_language <- read_csv("data-raw/Subsistence economy_gathering EA001.csv")
+ea_language <- ea_language %>%
+  mutate(EA_ID = society_id) %>%
+  mutate(subsistence_gather = as.numeric(code)) %>%
+  select(c("EA_ID", "language_family"))
+
+### Add to data_culture
+data_culture <- left_join(data_culture, ea_language)
+
+## Adding missing language family data
+data_culture$language_family[data_culture$culture_ID=="oi20"]="Tiwi"
+data_culture$language_family[data_culture$culture_ID=="nn16"]="Muskogean"
+data_culture$language_family[data_culture$culture_ID=="nr10"]="Klamath"
+data_culture$language_family[data_culture$culture_ID=="nt23"]="Zuni"
+data_culture$language_family[data_culture$culture_ID=="rx02"]="Paleosiberian"
+data_culture$language_family[data_culture$culture_ID=="sh06"]="Yahgan"
+data_culture$language_family[data_culture$culture_ID=="ss18"]="Warao"
+
+### Read eHRAF meta data
+eHRAF_metadata <- read_xlsx("data-raw/eHRAF-World-Cultures_All.xlsx") %>%
+  mutate(culture_ID = `OWC Code`) %>%
+  select(c("culture_ID", "N_docs", "N_pages"))
+
+### Add to data_culture
+data_culture <- left_join(data_culture, eHRAF_metadata)
+
+
+
 # Data processing ---------------------------------------------------------
+
+# Extract document publication year from reference data
+data_raw$publication_year <- stri_extract_first_regex(data_raw$Reference, "[0-9]+")
+## Fix errors
+data_raw$publication_year[data_raw$text_ID=="e897aa8c78"]="1950"
+data_raw$publication_year[data_raw$text_ID=="d8896f8b6b"]="1890"
+data_raw$publication_year <- as.numeric(data_raw$publication_year)
 
 #Create named list of variables
 vars <- names(data_raw)[3:22]
