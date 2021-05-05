@@ -11,3 +11,7 @@ The extracted paragraphs were retrieved using eHRAF’s Word Search Function an
 This search produced 1383 paragraphs in 670 documents from 242 cultures. These 1383 paragraphs were read for content and those referencing reputations for entire groups (e.g., religious sects), non-human entities (e.g., animals, deities), or the ethnographers themselves wer excluded. Paragraphs drawn from the same document were aggregated. This process resulted in a dataset containing 319 documents from 153 cultures.
 
 The data frames are at the document-level (from which researcher-coded variables were produced). Culture-level metadata is also included. 
+
+To install:
+
+`remotes::install_github('zhgarfield/reputationdiversitydata')`
