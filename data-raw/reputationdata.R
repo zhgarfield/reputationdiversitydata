@@ -75,7 +75,8 @@ data_basic <- data_raw %>%
   mutate_at(.vars = vars, funs(ifelse(.== c("NEUTRAL"), 1, .))) %>%
   mutate_at(.vars = vars, funs(ifelse(.== c("MALE"), 1, .))) %>%
   mutate_at(.vars = vars, funs(ifelse(.== c("FEMALE"), 1, .))) %>%
-  mutate_at(.vars = vars, funs(as.numeric(.)))
+  mutate_at(.vars = vars, funs(as.numeric(.))) %>%
+  select(-c(Reference, Text))
 
 #NAs are not meaningful here. NA in data_raw is no evidence. Set NAs to 0
 data_basic[is.na(data_basic)==TRUE] = 0
