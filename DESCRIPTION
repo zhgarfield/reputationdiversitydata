@@ -30,8 +30,8 @@ Authors@R:
            role = c("aut"),
            email = "andrea.j.h.uehling@gmail.com")
            )
-Description: The reputationdata package provides researcher-coded variables produced from ethnographic texts sampled from the eHRAF.
-    Data are introduced and analyzed in the publication Macfarlan1 et al. in Phil. Trans. R. Soc. B (DOI). Data include
+Description: The reputationdiversitsydata package provides researcher-coded variables produced from ethnographic texts sampled from the eHRAF.
+    Data are introduced and analyzed in the publication, "The content and structure of reputation domains across human societies" by Garfield et al. in Phil. Data include
     variables on 20 distinct reputation domains coded from 319 ethnographic "texts" covering 153 cultures. See manuscript for more details.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license

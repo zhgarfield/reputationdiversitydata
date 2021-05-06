@@ -1,4 +1,4 @@
-## code to prepare `reputationdata` dataset
+## code to prepare `reputationdiversitydata` dataset
 
 # Load libraries ----------------------------------------------------------
 library(tidyverse)
@@ -48,8 +48,6 @@ eHRAF_metadata <- read_xlsx("data-raw/eHRAF-World-Cultures_All.xlsx") %>%
 
 ### Add to data_culture
 data_culture <- left_join(data_culture, eHRAF_metadata)
-
-
 
 # Data processing ---------------------------------------------------------
 
