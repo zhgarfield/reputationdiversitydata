@@ -17,6 +17,9 @@ A data frame with 153 rows and 10 variables:
 \item{\code{longitude}}{double Approximate longitude of culture geographic location.}
 \item{\code{latitude}}{double Approximate latitude of culture geographic location.}
 \item{\code{Name}}{character Culture name (eHRAF culture name).}
+\item{\code{language_family}}{character Culture language family (retrieved from The Ethnographic Atlas or other sources).}
+\item{\code{N_docs}}{double Number of total available eHRAF documents for culture.}
+\item{\code{N_pages}}{double Number of total pages in all eHRAF documents for culture}
 }
 }
 \source{
